@@ -222,3 +222,1335 @@
 [2025-04-07T10:38:49.135Z] Login attempt: Username 'jdjdjddjd' provided from ::ffff:127.0.0.1:38016
 [2025-04-07T10:38:49.135Z] Failed login: Invalid username 'jdjdjddjd' from ::ffff:127.0.0.1:38016
 [2025-04-07T10:39:05.451Z] Connection closed: User 'jdjdjddjd' (::ffff:127.0.0.1:38016)
+[2025-04-08T05:04:23.838Z] Telnet server started on port 8023
+[2025-04-08T05:04:23.852Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:04:23.853Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:05:03.137Z] Telnet server started on port 8023
+[2025-04-08T05:05:03.141Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:05:03.141Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:06:48.657Z] New connection from ::ffff:192.168.100.201:38688
+[2025-04-08T05:07:35.926Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:38688
+[2025-04-08T05:07:35.926Z] Failed login: Invalid username '1' from ::ffff:192.168.100.201:38688
+[2025-04-08T05:07:39.645Z] Login attempt: Username 'exit' provided from ::ffff:192.168.100.201:38688
+[2025-04-08T05:07:39.646Z] Failed login: Invalid username 'exit' from ::ffff:192.168.100.201:38688
+[2025-04-08T05:07:45.030Z] Connection closed: User 'exit' (::ffff:192.168.100.201:38688)
+[2025-04-08T05:07:50.866Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:07:50.862Z] Telnet server started on port 8023
+[2025-04-08T05:07:50.866Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:07:58.061Z] New connection from ::ffff:192.168.100.201:42258
+[2025-04-08T05:08:01.789Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:42258
+[2025-04-08T05:08:02.841Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:42258
+[2025-04-08T05:08:02.841Z] Successful login: User '1' from ::ffff:192.168.100.201:42258
+[2025-04-08T05:08:02.843Z] Command executed by '1': 
+[2025-04-08T05:08:10.351Z] Command executed by '1': help
+[2025-04-08T05:08:10.353Z] Command executed by '1': 
+[2025-04-08T05:08:21.038Z] Command executed by '1': whoami
+[2025-04-08T05:08:21.039Z] Command executed by '1': 
+[2025-04-08T05:08:23.070Z] Command executed by '1': clear
+[2025-04-08T05:08:23.070Z] Command executed by '1': 
+[2025-04-08T05:08:23.492Z] Command executed by '1': ls
+[2025-04-08T05:08:23.549Z] User '1' listed directory '/'
+[2025-04-08T05:08:23.549Z] Command executed by '1': 
+[2025-04-08T05:08:26.888Z] Command executed by '1': cd ..
+[2025-04-08T05:08:26.890Z] Command executed by '1': 
+[2025-04-08T05:08:27.985Z] Command executed by '1': ls
+[2025-04-08T05:08:27.986Z] User '1' listed directory '/'
+[2025-04-08T05:08:27.987Z] Command executed by '1': 
+[2025-04-08T05:08:29.238Z] Command executed by '1': clear
+[2025-04-08T05:08:29.239Z] Command executed by '1': 
+[2025-04-08T05:08:29.585Z] Command executed by '1': ls
+[2025-04-08T05:08:29.586Z] User '1' listed directory '/'
+[2025-04-08T05:08:29.587Z] Command executed by '1': 
+[2025-04-08T05:08:30.003Z] Command executed by '1': ls
+[2025-04-08T05:08:30.004Z] User '1' listed directory '/'
+[2025-04-08T05:08:30.005Z] Command executed by '1': 
+[2025-04-08T05:08:31.169Z] Command executed by '1': ls
+[2025-04-08T05:08:31.170Z] User '1' listed directory '/'
+[2025-04-08T05:08:31.170Z] Command executed by '1': 
+[2025-04-08T05:08:32.287Z] Command executed by '1': clear
+[2025-04-08T05:08:32.288Z] Command executed by '1': 
+[2025-04-08T05:08:32.681Z] Command executed by '1': 
+[2025-04-08T05:08:32.682Z] Command executed by '1': 
+[2025-04-08T05:08:32.832Z] Command executed by '1': ls
+[2025-04-08T05:08:32.833Z] User '1' listed directory '/'
+[2025-04-08T05:08:32.833Z] Command executed by '1': 
+[2025-04-08T05:08:34.291Z] Command executed by '1': clear
+[2025-04-08T05:08:34.292Z] Command executed by '1': 
+[2025-04-08T05:08:34.573Z] Command executed by '1': ls
+[2025-04-08T05:08:34.574Z] User '1' listed directory '/'
+[2025-04-08T05:08:34.575Z] Command executed by '1': 
+[2025-04-08T05:08:35.676Z] Command executed by '1': cd ..
+[2025-04-08T05:08:35.677Z] Command executed by '1': 
+[2025-04-08T05:08:36.684Z] Command executed by '1': clear
+[2025-04-08T05:08:36.685Z] Command executed by '1': 
+[2025-04-08T05:08:48.039Z] Command executed by '1': hrlp
+[2025-04-08T05:08:48.040Z] Command executed by '1': 
+[2025-04-08T05:08:50.657Z] Command executed by '1': help
+[2025-04-08T05:08:50.658Z] Command executed by '1': 
+[2025-04-08T05:08:53.657Z] Command executed by '1': ls
+[2025-04-08T05:08:53.659Z] Command executed by '1': 
+[2025-04-08T05:08:53.658Z] User '1' listed directory '/'
+[2025-04-08T05:09:01.636Z] Command executed by '1': pwd
+[2025-04-08T05:09:01.637Z] Command executed by '1': 
+[2025-04-08T05:09:29.110Z] Command executed by '1': exit
+[2025-04-08T05:09:29.110Z] User '1' logged out from ::ffff:192.168.100.201:42258
+[2025-04-08T05:09:29.115Z] Connection closed: User '1' (::ffff:192.168.100.201:42258)
+[2025-04-08T05:09:29.114Z] Command executed by '1': 
+[2025-04-08T05:09:29.115Z] Socket error for user '1' (::ffff:192.168.100.201:42258): write after end
+[2025-04-08T05:09:36.891Z] New connection from ::ffff:192.168.100.201:51460
+[2025-04-08T05:09:42.183Z] Login attempt: Username 'exit' provided from ::ffff:192.168.100.201:51460
+[2025-04-08T05:09:42.183Z] Failed login: Invalid username 'exit' from ::ffff:192.168.100.201:51460
+[2025-04-08T05:09:43.796Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:51460
+[2025-04-08T05:09:44.209Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:51460
+[2025-04-08T05:09:44.209Z] Successful login: User '1' from ::ffff:192.168.100.201:51460
+[2025-04-08T05:09:44.210Z] Command executed by '1': 
+[2025-04-08T05:09:45.468Z] Command executed by '1': clear
+[2025-04-08T05:09:45.468Z] Command executed by '1': 
+[2025-04-08T05:09:45.730Z] Command executed by '1': ls
+[2025-04-08T05:09:45.731Z] User '1' listed directory '/'
+[2025-04-08T05:09:45.731Z] Command executed by '1': 
+[2025-04-08T05:09:47.301Z] Command executed by '1': clear
+[2025-04-08T05:09:47.302Z] Command executed by '1': 
+[2025-04-08T05:09:50.968Z] Command executed by '1': clwear
+[2025-04-08T05:09:50.969Z] Command executed by '1': 
+[2025-04-08T05:09:51.609Z] Connection closed: User '1' (::ffff:192.168.100.201:51460)
+[2025-04-08T05:09:55.187Z] New connection from ::ffff:192.168.100.201:40378
+[2025-04-08T05:12:12.618Z] Telnet server started on port 8023
+[2025-04-08T05:12:12.630Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:12:12.630Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:12:15.895Z] Telnet server started on port 8023
+[2025-04-08T05:12:15.902Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:12:15.902Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:12:17.916Z] Telnet server started on port 8023
+[2025-04-08T05:12:17.921Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:12:17.921Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:12:19.267Z] Telnet server started on port 8023
+[2025-04-08T05:12:19.272Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:12:19.272Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:12:20.809Z] Telnet server started on port 8023
+[2025-04-08T05:12:20.833Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:12:20.834Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:14:40.363Z] Telnet server started on port 8023
+[2025-04-08T05:14:40.374Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:14:40.375Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:14:43.239Z] Telnet server started on port 8023
+[2025-04-08T05:14:43.264Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:14:43.265Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:14:59.831Z] New connection from ::ffff:192.168.100.201:35074
+[2025-04-08T05:16:38.508Z] Telnet server started on port 8023
+[2025-04-08T05:16:38.518Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:16:38.519Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:16:40.260Z] Telnet server started on port 8023
+[2025-04-08T05:16:40.279Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:16:40.280Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:16:47.170Z] New connection from ::ffff:192.168.100.201:36070
+[2025-04-08T05:19:50.206Z] Telnet server started on port 8023
+[2025-04-08T05:19:50.226Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:19:50.227Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:19:52.048Z] Telnet server started on port 8023
+[2025-04-08T05:19:52.060Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:19:52.061Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:19:59.077Z] New connection from ::ffff:192.168.100.201:60502
+[2025-04-08T05:21:43.487Z] Telnet server started on port 8023
+[2025-04-08T05:21:43.497Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:21:43.499Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:21:44.397Z] Telnet server started on port 8023
+[2025-04-08T05:21:44.420Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:21:44.421Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:21:49.613Z] New connection from ::ffff:192.168.100.201:59358
+[2025-04-08T05:22:12.714Z] Telnet server started on port 8023
+[2025-04-08T05:22:12.720Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:22:12.720Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:22:14.434Z] Telnet server started on port 8023
+[2025-04-08T05:22:14.449Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:22:14.450Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:23:27.369Z] Telnet server started on port 8023
+[2025-04-08T05:23:27.382Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:23:27.383Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:23:28.704Z] Telnet server started on port 8023
+[2025-04-08T05:23:28.709Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:23:28.709Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:23:58.218Z] Telnet server started on port 8023
+[2025-04-08T05:23:58.224Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:23:58.225Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:23:59.207Z] Telnet server started on port 8023
+[2025-04-08T05:23:59.214Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:23:59.214Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:24:05.178Z] New connection from ::ffff:192.168.100.201:43700
+[2025-04-08T05:25:24.901Z] Telnet server started on port 8023
+[2025-04-08T05:25:24.916Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:25:24.917Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:25:26.321Z] Telnet server started on port 8023
+[2025-04-08T05:25:26.337Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:25:26.338Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:25:38.122Z] New connection from ::ffff:192.168.100.201:55004
+[2025-04-08T05:25:52.189Z] Telnet server started on port 8023
+[2025-04-08T05:25:52.196Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:25:52.196Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:26:33.845Z] New connection from ::ffff:192.168.100.201:43910
+[2025-04-08T05:26:50.040Z] Connection closed: User '' (::ffff:192.168.100.201:43910)
+[2025-04-08T05:27:15.887Z] New connection from ::ffff:192.168.100.201:35618
+[2025-04-08T05:27:28.640Z] New connection from ::ffff:192.168.100.201:35710
+[2025-04-08T05:27:40.328Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:35710
+[2025-04-08T05:27:40.566Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:35710
+[2025-04-08T05:27:40.567Z] Successful login: User '1' from ::ffff:192.168.100.201:35710
+[2025-04-08T05:27:40.569Z] Command executed by '1': 
+[2025-04-08T05:27:42.378Z] Command executed by '1': 1exit
+[2025-04-08T05:27:42.379Z] Command executed by '1': 
+[2025-04-08T05:27:44.780Z] Command executed by '1': exit
+[2025-04-08T05:27:44.781Z] User '1' logged out from ::ffff:192.168.100.201:35710
+[2025-04-08T05:27:44.783Z] Command executed by '1': 
+[2025-04-08T05:27:44.784Z] Socket error for user '1' (::ffff:192.168.100.201:35710): write after end
+[2025-04-08T05:27:44.784Z] Connection closed: User '1' (::ffff:192.168.100.201:35710)
+[2025-04-08T05:27:49.968Z] New connection from ::ffff:192.168.100.201:59808
+[2025-04-08T05:27:58.552Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:59808
+[2025-04-08T05:27:58.736Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:59808
+[2025-04-08T05:27:58.737Z] Successful login: User '1' from ::ffff:192.168.100.201:59808
+[2025-04-08T05:27:58.738Z] Command executed by '1': 
+[2025-04-08T05:28:01.579Z] Command executed by '1': exit
+[2025-04-08T05:28:01.579Z] User '1' logged out from ::ffff:192.168.100.201:59808
+[2025-04-08T05:28:01.580Z] Command executed by '1': 
+[2025-04-08T05:28:01.581Z] Socket error for user '1' (::ffff:192.168.100.201:59808): write after end
+[2025-04-08T05:28:01.581Z] Connection closed: User '1' (::ffff:192.168.100.201:59808)
+[2025-04-08T05:28:06.053Z] New connection from ::ffff:192.168.100.201:40974
+[2025-04-08T05:28:10.742Z] Connection closed: User '' (::ffff:192.168.100.201:40974)
+[2025-04-08T05:30:09.120Z] Telnet server started on port 8023
+[2025-04-08T05:30:09.127Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:30:09.128Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:30:10.951Z] Telnet server started on port 8023
+[2025-04-08T05:30:10.974Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:30:10.974Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:30:54.788Z] Telnet server started on port 8023
+[2025-04-08T05:30:54.803Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:30:54.805Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:32:48.009Z] Telnet server started on port 8023
+[2025-04-08T05:32:48.021Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:32:48.022Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:33:53.996Z] Telnet server started on port 8023
+[2025-04-08T05:33:54.005Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:33:54.006Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:34:04.647Z] Telnet server started on port 8023
+[2025-04-08T05:34:04.662Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:34:04.663Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:34:05.868Z] Telnet server started on port 8023
+[2025-04-08T05:34:05.884Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:34:05.884Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:34:47.700Z] Telnet server started on port 8023
+[2025-04-08T05:34:47.705Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:34:47.706Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:35:09.389Z] Telnet server started on port 8023
+[2025-04-08T05:35:09.401Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:35:09.401Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:35:16.868Z] Telnet server started on port 8023
+[2025-04-08T05:35:16.886Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:35:16.886Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:35:21.723Z] Telnet server started on port 8023
+[2025-04-08T05:35:21.729Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:35:21.729Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:35:25.845Z] Telnet server started on port 8023
+[2025-04-08T05:35:25.858Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:35:25.859Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:36:12.601Z] Telnet server started on port 8023
+[2025-04-08T05:36:12.614Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:36:12.615Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:36:25.624Z] Telnet server started on port 8023
+[2025-04-08T05:36:25.635Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:36:25.636Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:36:37.373Z] Telnet server started on port 8023
+[2025-04-08T05:36:37.387Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:36:37.388Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:36:48.303Z] Telnet server started on port 8023
+[2025-04-08T05:36:48.314Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:36:48.315Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:36:52.376Z] Telnet server started on port 8023
+[2025-04-08T05:36:52.384Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:36:52.384Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:37:10.001Z] Telnet server started on port 8023
+[2025-04-08T05:37:10.020Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:37:10.021Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:37:16.163Z] Telnet server started on port 8023
+[2025-04-08T05:37:16.179Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:37:16.180Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:37:17.875Z] Telnet server started on port 8023
+[2025-04-08T05:37:17.893Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:37:17.894Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:37:19.012Z] Telnet server started on port 8023
+[2025-04-08T05:37:19.030Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:37:19.032Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:37:20.178Z] Telnet server started on port 8023
+[2025-04-08T05:37:20.187Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:37:20.187Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:37:30.777Z] Telnet server started on port 8023
+[2025-04-08T05:37:30.791Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:37:30.792Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:37:44.562Z] Telnet server started on port 8023
+[2025-04-08T05:37:44.577Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:37:44.578Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:37:47.764Z] Telnet server started on port 8023
+[2025-04-08T05:37:47.774Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:37:47.774Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:37:51.889Z] Telnet server started on port 8023
+[2025-04-08T05:37:51.906Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:37:51.906Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:38:02.444Z] Telnet server started on port 8023
+[2025-04-08T05:38:02.463Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:38:02.464Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:38:10.677Z] Telnet server started on port 8023
+[2025-04-08T05:38:10.689Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:38:10.690Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:38:14.239Z] Telnet server started on port 8023
+[2025-04-08T05:38:14.247Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:38:14.247Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:38:17.411Z] Telnet server started on port 8023
+[2025-04-08T05:38:17.429Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:38:17.432Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:38:20.004Z] Telnet server started on port 8023
+[2025-04-08T05:38:20.017Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:38:20.017Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:38:35.962Z] Telnet server started on port 8023
+[2025-04-08T05:38:35.976Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:38:35.977Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:38:40.797Z] Telnet server started on port 8023
+[2025-04-08T05:38:40.809Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:38:40.810Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:38:45.611Z] Telnet server started on port 8023
+[2025-04-08T05:38:45.627Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:38:45.627Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:38:51.063Z] New connection from ::ffff:192.168.100.201:39404
+[2025-04-08T05:40:43.438Z] Telnet server started on port 8023
+[2025-04-08T05:40:43.454Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:40:43.454Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:40:45.837Z] Telnet server started on port 8023
+[2025-04-08T05:40:45.853Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:40:45.854Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:40:51.656Z] New connection from ::ffff:192.168.100.201:59214
+[2025-04-08T05:43:39.171Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:43:39.159Z] Telnet server started on port 8023
+[2025-04-08T05:43:39.173Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:43:41.311Z] Telnet server started on port 8023
+[2025-04-08T05:43:41.333Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:43:41.334Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:43:48.921Z] New connection from ::ffff:192.168.100.201:36728
+[2025-04-08T05:43:53.853Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:36728
+[2025-04-08T05:44:11.439Z] Telnet server started on port 8023
+[2025-04-08T05:44:11.451Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:44:11.452Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:44:18.266Z] New connection from ::ffff:192.168.100.201:38866
+[2025-04-08T05:44:36.457Z] Telnet server started on port 8023
+[2025-04-08T05:44:36.463Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:44:36.463Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:44:41.660Z] Telnet server started on port 8023
+[2025-04-08T05:44:41.670Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:44:41.671Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:44:44.329Z] Telnet server started on port 8023
+[2025-04-08T05:44:44.341Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:44:44.341Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:44:49.652Z] Telnet server started on port 8023
+[2025-04-08T05:44:49.681Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:44:49.681Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:44:54.295Z] Telnet server started on port 8023
+[2025-04-08T05:44:54.317Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:44:54.318Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:45:00.462Z] Telnet server started on port 8023
+[2025-04-08T05:45:00.486Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:45:00.485Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:45:04.802Z] New connection from ::ffff:192.168.100.201:41844
+[2025-04-08T05:45:17.568Z] Telnet server started on port 8023
+[2025-04-08T05:45:17.580Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:45:17.581Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:45:20.020Z] New connection from ::ffff:192.168.100.201:55128
+[2025-04-08T05:45:27.030Z] Telnet server started on port 8023
+[2025-04-08T05:45:27.041Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:45:27.042Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:45:30.558Z] Telnet server started on port 8023
+[2025-04-08T05:45:30.571Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:45:30.572Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:45:42.332Z] New connection from ::ffff:192.168.100.201:45516
+[2025-04-08T05:45:51.228Z] Telnet server started on port 8023
+[2025-04-08T05:45:51.257Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:45:51.259Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:45:52.456Z] Telnet server started on port 8023
+[2025-04-08T05:45:52.461Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:45:52.462Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:46:02.338Z] New connection from ::ffff:192.168.100.201:57998
+[2025-04-08T05:46:51.728Z] Telnet server started on port 8023
+[2025-04-08T05:46:51.733Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:46:51.733Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:46:52.535Z] Telnet server started on port 8023
+[2025-04-08T05:46:52.544Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:46:52.545Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:47:09.904Z] New connection from ::ffff:192.168.100.201:43204
+[2025-04-08T05:48:46.316Z] Telnet server started on port 8023
+[2025-04-08T05:48:46.323Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:48:46.324Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:48:47.653Z] Telnet server started on port 8023
+[2025-04-08T05:48:47.670Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:48:47.671Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:48:52.131Z] New connection from ::ffff:192.168.100.201:37292
+[2025-04-08T05:49:55.456Z] Telnet server started on port 8023
+[2025-04-08T05:49:55.465Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:49:55.467Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:49:56.981Z] Telnet server started on port 8023
+[2025-04-08T05:49:56.993Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:49:56.994Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:49:58.181Z] Telnet server started on port 8023
+[2025-04-08T05:49:58.194Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:49:58.195Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:50:02.803Z] New connection from ::ffff:192.168.100.201:40942
+[2025-04-08T05:50:10.143Z] Telnet server started on port 8023
+[2025-04-08T05:50:10.148Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:50:10.148Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:50:11.481Z] New connection from ::ffff:192.168.100.201:34536
+[2025-04-08T05:50:18.180Z] Telnet server started on port 8023
+[2025-04-08T05:50:18.195Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:50:18.197Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:50:19.420Z] New connection from ::ffff:192.168.100.201:55592
+[2025-04-08T05:50:23.124Z] Telnet server started on port 8023
+[2025-04-08T05:50:23.144Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:50:23.144Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:50:23.986Z] New connection from ::ffff:192.168.100.201:55604
+[2025-04-08T05:50:27.589Z] Telnet server started on port 8023
+[2025-04-08T05:50:27.594Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:50:27.595Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:50:28.495Z] New connection from ::ffff:192.168.100.201:59956
+[2025-04-08T05:50:31.984Z] Telnet server started on port 8023
+[2025-04-08T05:50:31.988Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:50:31.988Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:50:32.852Z] New connection from ::ffff:192.168.100.201:59964
+[2025-04-08T05:50:37.280Z] Telnet server started on port 8023
+[2025-04-08T05:50:37.299Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:50:37.300Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:50:38.196Z] New connection from ::ffff:192.168.100.201:37808
+[2025-04-08T05:51:01.717Z] Telnet server started on port 8023
+[2025-04-08T05:51:01.736Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:51:01.736Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:51:04.136Z] Telnet server started on port 8023
+[2025-04-08T05:51:04.150Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:51:04.151Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:51:05.842Z] New connection from ::ffff:192.168.100.201:51208
+[2025-04-08T05:51:16.709Z] New connection from ::ffff:192.168.100.201:60440
+[2025-04-08T05:51:25.986Z] Connection closed: User '' (::ffff:192.168.100.201:60440)
+[2025-04-08T05:51:33.389Z] Telnet server started on port 8023
+[2025-04-08T05:51:33.394Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:51:33.394Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:51:37.497Z] Telnet server started on port 8023
+[2025-04-08T05:51:37.505Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:51:37.505Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:51:38.868Z] New connection from ::ffff:192.168.100.201:56926
+[2025-04-08T05:51:46.882Z] New connection from ::ffff:192.168.100.201:42022
+[2025-04-08T05:51:53.907Z] Connection closed: User '' (::ffff:192.168.100.201:42022)
+[2025-04-08T05:52:01.455Z] New connection from ::ffff:192.168.100.201:55624
+[2025-04-08T05:52:08.512Z] Connection closed: User '' (::ffff:192.168.100.201:55624)
+[2025-04-08T05:52:17.377Z] New connection from ::ffff:192.168.100.201:48842
+[2025-04-08T05:52:24.622Z] Connection closed: User '' (::ffff:192.168.100.201:48842)
+[2025-04-08T05:53:00.797Z] Telnet server started on port 8023
+[2025-04-08T05:53:00.802Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:53:00.802Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:53:05.753Z] Telnet server started on port 8023
+[2025-04-08T05:53:05.764Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:53:05.765Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:53:07.452Z] Telnet server started on port 8023
+[2025-04-08T05:53:07.459Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:53:07.459Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:53:13.093Z] Telnet server started on port 8023
+[2025-04-08T05:53:13.115Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:53:13.116Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:53:14.190Z] Telnet server started on port 8023
+[2025-04-08T05:53:14.211Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:53:14.212Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:53:21.967Z] Telnet server started on port 8023
+[2025-04-08T05:53:21.973Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:53:21.974Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:53:24.464Z] New connection from ::ffff:192.168.100.201:58262
+[2025-04-08T05:53:31.364Z] New connection from ::ffff:192.168.100.201:58264
+[2025-04-08T05:53:34.758Z] Connection closed: User '' (::ffff:192.168.100.201:58264)
+[2025-04-08T05:56:47.848Z] Telnet server started on port 8023
+[2025-04-08T05:56:47.854Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:56:47.855Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:56:59.696Z] New connection from ::ffff:192.168.100.201:41282
+[2025-04-08T05:57:08.859Z] Telnet server started on port 8023
+[2025-04-08T05:57:08.871Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:57:08.871Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:57:13.265Z] New connection from ::ffff:192.168.100.201:55480
+[2025-04-08T05:58:24.485Z] Telnet server started on port 8023
+[2025-04-08T05:58:24.494Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:58:24.494Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:58:29.286Z] New connection from ::ffff:192.168.100.201:47974
+[2025-04-08T05:59:38.179Z] Telnet server started on port 8023
+[2025-04-08T05:59:38.204Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:59:38.206Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:59:38.890Z] Telnet server started on port 8023
+[2025-04-08T05:59:38.910Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T05:59:38.911Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T05:59:42.006Z] New connection from ::ffff:192.168.100.201:49690
+[2025-04-08T06:01:15.813Z] Telnet server started on port 8023
+[2025-04-08T06:01:15.827Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:01:15.828Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:43:20.888Z] Telnet server started on port 8023
+[2025-04-08T06:43:20.893Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:43:20.893Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:43:27.562Z] New connection from ::ffff:192.168.100.201:58316
+[2025-04-08T06:45:06.642Z] Connection closed: User '' (::ffff:192.168.100.201:58316)
+[2025-04-08T06:45:25.318Z] Telnet server started on port 8023
+[2025-04-08T06:45:25.321Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:45:25.322Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:45:31.595Z] New connection from ::ffff:192.168.100.201:53942
+[2025-04-08T06:47:55.720Z] Telnet server started on port 8023
+[2025-04-08T06:47:55.728Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:47:55.728Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:47:58.785Z] Telnet server started on port 8023
+[2025-04-08T06:47:58.798Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:47:58.800Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:48:05.286Z] New connection from ::ffff:192.168.100.201:52886
+[2025-04-08T06:49:36.567Z] Telnet server started on port 8023
+[2025-04-08T06:49:36.574Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:49:36.574Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:49:39.139Z] Telnet server started on port 8023
+[2025-04-08T06:49:39.161Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:49:39.161Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:49:42.738Z] New connection from ::ffff:192.168.100.201:50602
+[2025-04-08T06:50:00.145Z] Telnet server started on port 8023
+[2025-04-08T06:50:00.149Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:50:00.149Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:50:03.296Z] Telnet server started on port 8023
+[2025-04-08T06:50:03.301Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:50:03.301Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:50:03.966Z] New connection from ::ffff:192.168.100.201:58338
+[2025-04-08T06:50:19.250Z] Telnet server started on port 8023
+[2025-04-08T06:50:19.259Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:50:19.260Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:50:20.056Z] New connection from ::ffff:192.168.100.201:40992
+[2025-04-08T06:51:30.625Z] Telnet server started on port 8023
+[2025-04-08T06:51:30.648Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:51:30.650Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:51:31.770Z] Telnet server started on port 8023
+[2025-04-08T06:51:31.790Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:51:31.792Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:51:35.392Z] New connection from ::ffff:192.168.100.201:44442
+[2025-04-08T06:53:23.883Z] Telnet server started on port 8023
+[2025-04-08T06:53:23.892Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:53:23.893Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:53:25.080Z] Telnet server started on port 8023
+[2025-04-08T06:53:25.098Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:53:25.100Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:53:28.000Z] New connection from ::ffff:192.168.100.201:40058
+[2025-04-08T06:54:39.992Z] Telnet server started on port 8023
+[2025-04-08T06:54:40.008Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:54:40.009Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:54:42.165Z] Telnet server started on port 8023
+[2025-04-08T06:54:42.190Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:54:42.188Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:54:46.792Z] New connection from ::ffff:192.168.100.201:52294
+[2025-04-08T06:56:25.277Z] Telnet server started on port 8023
+[2025-04-08T06:56:25.294Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:56:25.295Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:56:27.674Z] Telnet server started on port 8023
+[2025-04-08T06:56:27.688Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T06:56:27.689Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T06:56:30.934Z] New connection from ::ffff:192.168.100.201:58502
+[2025-04-08T07:00:19.236Z] Telnet server started on port 8023
+[2025-04-08T07:00:19.251Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:00:19.249Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:00:22.492Z] Telnet server started on port 8023
+[2025-04-08T07:00:22.508Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:00:22.509Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:00:26.669Z] New connection from ::ffff:192.168.100.201:60090
+[2025-04-08T07:00:34.583Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:60090
+[2025-04-08T07:00:35.228Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:60090
+[2025-04-08T07:00:35.229Z] Successful login: User '1' from ::ffff:192.168.100.201:60090
+[2025-04-08T07:00:35.230Z] Command executed by '1': 
+[2025-04-08T07:00:38.687Z] Command executed by '1': exit
+[2025-04-08T07:00:38.687Z] User '1' logged out from ::ffff:192.168.100.201:60090
+[2025-04-08T07:00:38.696Z] Command executed by '1': 
+[2025-04-08T07:00:38.697Z] Socket error for user '1' (::ffff:192.168.100.201:60090): write after end
+[2025-04-08T07:00:38.699Z] Connection closed: User '1' (::ffff:192.168.100.201:60090)
+[2025-04-08T07:00:39.675Z] New connection from ::ffff:192.168.100.201:48662
+[2025-04-08T07:00:45.502Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:48662
+[2025-04-08T07:00:46.034Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:48662
+[2025-04-08T07:00:46.035Z] Successful login: User '1' from ::ffff:192.168.100.201:48662
+[2025-04-08T07:00:46.036Z] Command executed by '1': 
+[2025-04-08T07:00:48.183Z] User '1' logged out from ::ffff:192.168.100.201:48662
+[2025-04-08T07:00:48.182Z] Command executed by '1': exit
+[2025-04-08T07:00:48.183Z] Command executed by '1': 
+[2025-04-08T07:00:48.184Z] Socket error for user '1' (::ffff:192.168.100.201:48662): write after end
+[2025-04-08T07:00:48.185Z] Connection closed: User '1' (::ffff:192.168.100.201:48662)
+[2025-04-08T07:00:51.778Z] New connection from ::ffff:192.168.100.201:56322
+[2025-04-08T07:03:36.902Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:03:36.891Z] Telnet server started on port 8023
+[2025-04-08T07:03:36.902Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:03:38.139Z] Telnet server started on port 8023
+[2025-04-08T07:03:38.153Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:03:38.154Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:03:42.573Z] New connection from ::ffff:192.168.100.201:37594
+[2025-04-08T07:07:13.328Z] Telnet server started on port 8023
+[2025-04-08T07:07:13.333Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:07:13.333Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:07:15.348Z] Telnet server started on port 8023
+[2025-04-08T07:07:15.370Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:07:15.371Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:07:18.583Z] New connection from ::ffff:192.168.100.201:38298
+[2025-04-08T07:11:11.590Z] Telnet server started on port 8023
+[2025-04-08T07:11:11.605Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:11:11.606Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:11:12.951Z] Telnet server started on port 8023
+[2025-04-08T07:11:12.976Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:11:12.977Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:11:21.930Z] Telnet server started on port 8023
+[2025-04-08T07:11:21.942Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:11:21.942Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:11:40.451Z] Telnet server started on port 8023
+[2025-04-08T07:11:40.454Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:11:40.454Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:11:50.353Z] Telnet server started on port 8023
+[2025-04-08T07:11:50.372Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:11:50.372Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:11:56.282Z] New connection from ::ffff:192.168.100.201:39666
+[2025-04-08T07:12:11.753Z] New connection from ::ffff:192.168.100.201:48704
+[2025-04-08T07:12:19.301Z] Connection closed: User '' (::ffff:192.168.100.201:48704)
+[2025-04-08T07:12:24.425Z] New connection from ::ffff:192.168.100.201:53674
+[2025-04-08T07:13:35.075Z] Connection closed: User '' (::ffff:192.168.100.201:53674)
+[2025-04-08T07:17:40.843Z] Telnet server started on port 8023
+[2025-04-08T07:17:40.850Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:17:40.850Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:17:54.394Z] Telnet server started on port 8023
+[2025-04-08T07:17:54.414Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:17:54.415Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:18:49.205Z] Telnet server started on port 8023
+[2025-04-08T07:18:49.221Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:18:49.222Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:18:55.064Z] New connection from ::ffff:192.168.100.201:34570
+[2025-04-08T07:19:39.829Z] Telnet server started on port 8023
+[2025-04-08T07:19:39.836Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:19:39.837Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:19:44.737Z] New connection from ::ffff:192.168.100.201:35136
+[2025-04-08T07:19:51.871Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:35136
+[2025-04-08T07:19:52.329Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:35136
+[2025-04-08T07:19:52.329Z] Successful login: User '1' from ::ffff:192.168.100.201:35136
+[2025-04-08T07:19:52.331Z] Command executed by '1': 
+[2025-04-08T07:19:57.498Z] Command executed by '1': exit
+[2025-04-08T07:19:57.499Z] User '1' logged out from ::ffff:192.168.100.201:35136
+[2025-04-08T07:19:57.503Z] Command executed by '1': 
+[2025-04-08T07:19:57.504Z] Socket error for user '1' (::ffff:192.168.100.201:35136): write after end
+[2025-04-08T07:19:57.505Z] Connection closed: User '1' (::ffff:192.168.100.201:35136)
+[2025-04-08T07:20:04.470Z] New connection from ::ffff:192.168.100.201:48728
+[2025-04-08T07:22:24.654Z] Telnet server started on port 8023
+[2025-04-08T07:22:24.661Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:22:24.661Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:22:30.419Z] Telnet server started on port 8023
+[2025-04-08T07:22:30.443Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:22:30.444Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:22:56.363Z] Telnet server started on port 8023
+[2025-04-08T07:22:56.375Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:22:56.377Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:27:12.623Z] Telnet server started on port 8023
+[2025-04-08T07:27:12.640Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:27:12.641Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:27:27.699Z] Telnet server started on port 8023
+[2025-04-08T07:27:27.719Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:27:27.720Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:27:31.118Z] New connection from ::ffff:192.168.100.201:47570
+[2025-04-08T07:27:49.349Z] Telnet server started on port 8023
+[2025-04-08T07:27:49.355Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:27:49.355Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:27:51.879Z] Telnet server started on port 8023
+[2025-04-08T07:27:51.891Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:27:51.892Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:27:57.806Z] New connection from ::ffff:192.168.100.201:34768
+[2025-04-08T07:28:11.942Z] New connection from ::ffff:192.168.100.201:58272
+[2025-04-08T07:28:20.177Z] Connection closed: User '' (::ffff:192.168.100.201:58272)
+[2025-04-08T07:28:27.901Z] New connection from ::ffff:192.168.100.201:40838
+[2025-04-08T07:28:40.102Z] Connection closed: User '' (::ffff:192.168.100.201:40838)
+[2025-04-08T07:28:45.629Z] New connection from ::ffff:192.168.100.201:34662
+[2025-04-08T07:29:07.657Z] Connection closed: User '' (::ffff:192.168.100.201:34662)
+[2025-04-08T07:29:15.322Z] New connection from ::ffff:192.168.100.201:43918
+[2025-04-08T07:29:20.141Z] Connection closed: User '' (::ffff:192.168.100.201:43918)
+[2025-04-08T07:29:37.605Z] New connection from ::ffff:192.168.100.201:46156
+[2025-04-08T07:29:51.690Z] Connection closed: User '' (::ffff:192.168.100.201:46156)
+[2025-04-08T07:33:43.828Z] Telnet server started on port 8023
+[2025-04-08T07:33:43.835Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:33:43.836Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:33:54.335Z] Telnet server started on port 8023
+[2025-04-08T07:33:54.354Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:33:54.356Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:34:00.211Z] New connection from ::ffff:192.168.100.201:48632
+[2025-04-08T07:37:47.933Z] Telnet server started on port 8023
+[2025-04-08T07:37:47.943Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:37:47.943Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:37:48.983Z] Telnet server started on port 8023
+[2025-04-08T07:37:48.995Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:37:48.997Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:38:02.160Z] Telnet server started on port 8023
+[2025-04-08T07:38:02.177Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:38:02.177Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:38:03.233Z] Telnet server started on port 8023
+[2025-04-08T07:38:03.251Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:38:03.252Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:38:13.583Z] New connection from ::ffff:192.168.100.201:34952
+[2025-04-08T07:39:25.283Z] Telnet server started on port 8023
+[2025-04-08T07:39:25.289Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:39:25.289Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:39:33.430Z] New connection from ::ffff:192.168.100.201:42714
+[2025-04-08T07:40:35.350Z] Telnet server started on port 8023
+[2025-04-08T07:40:35.356Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:40:35.356Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:40:40.173Z] New connection from ::ffff:192.168.100.201:42300
+[2025-04-08T07:43:03.086Z] Telnet server started on port 8023
+[2025-04-08T07:43:03.091Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:43:03.091Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:43:08.986Z] New connection from ::ffff:192.168.100.201:44216
+[2025-04-08T07:44:46.012Z] Telnet server started on port 8023
+[2025-04-08T07:44:46.025Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:44:46.026Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:44:47.899Z] Telnet server started on port 8023
+[2025-04-08T07:44:47.923Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:44:47.925Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:44:53.646Z] New connection from ::ffff:192.168.100.201:45904
+[2025-04-08T07:45:16.579Z] Telnet server started on port 8023
+[2025-04-08T07:45:16.588Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:45:16.588Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:45:19.761Z] New connection from ::ffff:192.168.100.201:46712
+[2025-04-08T07:45:41.052Z] Telnet server started on port 8023
+[2025-04-08T07:45:41.064Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:45:41.065Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:45:46.560Z] New connection from ::ffff:192.168.100.201:55532
+[2025-04-08T07:46:05.230Z] Telnet server started on port 8023
+[2025-04-08T07:46:05.237Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:46:05.237Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:46:09.687Z] New connection from ::ffff:192.168.100.201:45892
+[2025-04-08T07:46:22.345Z] Telnet server started on port 8023
+[2025-04-08T07:46:22.350Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:46:22.350Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:46:26.244Z] New connection from ::ffff:192.168.100.201:59020
+[2025-04-08T07:47:41.126Z] Telnet server started on port 8023
+[2025-04-08T07:47:41.134Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:47:41.134Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:47:42.205Z] Telnet server started on port 8023
+[2025-04-08T07:47:42.224Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:47:42.225Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:47:48.623Z] New connection from ::ffff:192.168.100.201:41664
+[2025-04-08T07:47:55.752Z] Telnet server started on port 8023
+[2025-04-08T07:47:55.761Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:47:55.763Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:47:57.652Z] Telnet server started on port 8023
+[2025-04-08T07:47:57.665Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:47:57.666Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:47:58.934Z] Telnet server started on port 8023
+[2025-04-08T07:47:58.945Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:47:58.946Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:48:00.549Z] Telnet server started on port 8023
+[2025-04-08T07:48:00.561Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:48:00.561Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:48:01.832Z] Telnet server started on port 8023
+[2025-04-08T07:48:01.837Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:48:01.837Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:48:05.147Z] New connection from ::ffff:192.168.100.201:42850
+[2025-04-08T07:50:55.804Z] Telnet server started on port 8023
+[2025-04-08T07:50:55.811Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:50:55.812Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:51:00.652Z] New connection from ::ffff:192.168.100.201:41262
+[2025-04-08T07:55:08.788Z] Telnet server started on port 8023
+[2025-04-08T07:55:08.796Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:55:08.796Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:55:15.203Z] New connection from ::ffff:192.168.100.201:47670
+[2025-04-08T07:56:46.058Z] Telnet server started on port 8023
+[2025-04-08T07:56:46.069Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:56:46.070Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:56:46.957Z] Telnet server started on port 8023
+[2025-04-08T07:56:46.982Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:56:46.984Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:56:49.887Z] New connection from ::ffff:192.168.100.201:51508
+[2025-04-08T07:59:14.808Z] Telnet server started on port 8023
+[2025-04-08T07:59:14.814Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:59:14.815Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:59:18.425Z] New connection from ::ffff:192.168.100.201:42202
+[2025-04-08T07:59:32.344Z] Telnet server started on port 8023
+[2025-04-08T07:59:32.349Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:59:32.350Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T07:59:34.598Z] Telnet server started on port 8023
+[2025-04-08T07:59:34.611Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T07:59:34.612Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T08:33:16.394Z] New connection from ::ffff:192.168.100.201:44494
+[2025-04-08T08:37:54.028Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:44494
+[2025-04-08T08:37:54.938Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:44494
+[2025-04-08T08:37:54.939Z] Successful login: User '1' from ::ffff:192.168.100.201:44494
+[2025-04-08T08:37:54.941Z] Command executed by '1': 
+[2025-04-08T08:38:01.818Z] Command executed by '1': help
+[2025-04-08T08:38:01.819Z] Command executed by '1': 
+[2025-04-08T08:38:05.820Z] Command executed by '1': cd ..
+[2025-04-08T08:38:05.821Z] Command executed by '1': 
+[2025-04-08T08:38:06.339Z] Command executed by '1': ls
+[2025-04-08T08:38:06.392Z] User '1' listed directory '/'
+[2025-04-08T08:38:06.393Z] Command executed by '1': 
+[2025-04-08T08:38:07.909Z] Command executed by '1': exit
+[2025-04-08T08:38:07.910Z] User '1' logged out from ::ffff:192.168.100.201:44494
+[2025-04-08T08:38:07.915Z] Socket error for user '1' (::ffff:192.168.100.201:44494): write after end
+[2025-04-08T08:38:07.915Z] Command executed by '1': 
+[2025-04-08T08:38:07.915Z] Connection closed: User '1' (::ffff:192.168.100.201:44494)
+[2025-04-08T08:38:10.368Z] New connection from ::ffff:192.168.100.201:42474
+[2025-04-08T08:38:47.806Z] Telnet server started on port 8023
+[2025-04-08T08:38:47.813Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T08:38:47.814Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T08:38:50.805Z] New connection from ::ffff:192.168.100.201:43522
+[2025-04-08T08:39:30.392Z] New connection from ::ffff:192.168.100.201:35712
+[2025-04-08T08:39:35.842Z] Connection closed: User '' (::ffff:192.168.100.201:35712)
+[2025-04-08T08:39:47.301Z] New connection from ::ffff:192.168.100.201:59566
+[2025-04-08T08:40:22.233Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:59566
+[2025-04-08T08:40:22.671Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:59566
+[2025-04-08T08:40:22.672Z] Successful login: User '1' from ::ffff:192.168.100.201:59566
+[2025-04-08T08:40:22.674Z] Command executed by '1': 
+[2025-04-08T08:40:25.513Z] Command executed by '1': exit
+[2025-04-08T08:40:25.518Z] Command executed by '1': 
+[2025-04-08T08:40:25.514Z] User '1' logged out from ::ffff:192.168.100.201:59566
+[2025-04-08T08:40:25.520Z] Socket error for user '1' (::ffff:192.168.100.201:59566): write after end
+[2025-04-08T08:40:25.521Z] Connection closed: User '1' (::ffff:192.168.100.201:59566)
+[2025-04-08T08:41:02.691Z] New connection from ::ffff:192.168.100.201:52520
+[2025-04-08T08:43:35.604Z] Connection closed: User '' (::ffff:192.168.100.201:52520)
+[2025-04-08T08:43:55.492Z] Login attempt: Username 'ý' provided from ::ffff:192.168.100.201:43522
+[2025-04-08T08:43:55.492Z] Failed login: Invalid username 'ý' from ::ffff:192.168.100.201:43522
+[2025-04-08T08:56:24.825Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:43522
+[2025-04-08T08:56:25.511Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:43522
+[2025-04-08T08:56:25.511Z] Successful login: User '1' from ::ffff:192.168.100.201:43522
+[2025-04-08T08:56:25.512Z] Command executed by '1': 
+[2025-04-08T08:56:27.973Z] Connection closed: User '1' (::ffff:192.168.100.201:43522)
+[2025-04-08T08:58:06.209Z] New connection from ::ffff:192.168.100.201:43302
+[2025-04-08T08:58:25.644Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:43302
+[2025-04-08T08:58:26.193Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:43302
+[2025-04-08T08:58:26.194Z] Successful login: User '1' from ::ffff:192.168.100.201:43302
+[2025-04-08T08:58:26.194Z] Command executed by '1': 
+[2025-04-08T08:58:28.452Z] Command executed by '1': exit
+[2025-04-08T08:58:28.453Z] User '1' logged out from ::ffff:192.168.100.201:43302
+[2025-04-08T08:58:28.454Z] Command executed by '1': 
+[2025-04-08T08:58:28.455Z] Socket error for user '1' (::ffff:192.168.100.201:43302): write after end
+[2025-04-08T08:58:28.456Z] Connection closed: User '1' (::ffff:192.168.100.201:43302)
+[2025-04-08T09:01:05.120Z] New connection from ::ffff:192.168.100.201:59674
+[2025-04-08T09:09:39.582Z] Telnet server started on port 8023
+[2025-04-08T09:09:39.595Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T09:09:39.596Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T09:09:41.594Z] Telnet server started on port 8023
+[2025-04-08T09:09:41.606Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T09:09:41.606Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T09:09:45.652Z] Telnet server started on port 8023
+[2025-04-08T09:09:45.658Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T09:09:45.658Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T09:10:38.480Z] Telnet server started on port 8023
+[2025-04-08T09:10:38.488Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T09:10:38.488Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T09:10:47.397Z] New connection from ::ffff:192.168.100.201:54656
+[2025-04-08T09:12:17.197Z] Telnet server started on port 8023
+[2025-04-08T09:12:17.207Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T09:12:17.207Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T09:12:19.914Z] Telnet server started on port 8023
+[2025-04-08T09:12:19.941Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T09:12:19.950Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T09:12:23.984Z] New connection from ::ffff:192.168.100.201:39182
+[2025-04-08T09:12:50.353Z] New connection from ::ffff:192.168.100.201:52680
+[2025-04-08T09:13:14.157Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:52680
+[2025-04-08T09:13:14.711Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:52680
+[2025-04-08T09:13:14.712Z] Successful login: User '1' from ::ffff:192.168.100.201:52680
+[2025-04-08T09:13:14.714Z] Command executed by '1': 
+[2025-04-08T09:13:16.863Z] Command executed by '1': exit
+[2025-04-08T09:13:16.864Z] User '1' logged out from ::ffff:192.168.100.201:52680
+[2025-04-08T09:13:16.870Z] Command executed by '1': 
+[2025-04-08T09:13:16.871Z] Socket error for user '1' (::ffff:192.168.100.201:52680): write after end
+[2025-04-08T09:13:16.872Z] Connection closed: User '1' (::ffff:192.168.100.201:52680)
+[2025-04-08T09:13:54.039Z] New connection from ::ffff:192.168.100.201:49716
+[2025-04-08T09:17:51.393Z] Connection closed: User '' (::ffff:192.168.100.201:39182)
+[2025-04-08T09:17:56.317Z] New connection from ::ffff:192.168.100.201:56254
+[2025-04-08T09:19:43.968Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:56254
+[2025-04-08T09:19:44.824Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:56254
+[2025-04-08T09:19:44.825Z] Successful login: User '1' from ::ffff:192.168.100.201:56254
+[2025-04-08T09:19:44.826Z] Command executed by '1': 
+[2025-04-08T09:19:46.432Z] Command executed by '1': exit
+[2025-04-08T09:19:46.433Z] User '1' logged out from ::ffff:192.168.100.201:56254
+[2025-04-08T09:19:46.434Z] Command executed by '1': 
+[2025-04-08T09:19:46.435Z] Socket error for user '1' (::ffff:192.168.100.201:56254): write after end
+[2025-04-08T09:19:46.436Z] Connection closed: User '1' (::ffff:192.168.100.201:56254)
+[2025-04-08T09:19:54.407Z] New connection from ::ffff:192.168.100.201:36600
+[2025-04-08T11:54:41.855Z] Connection closed: User '' (::ffff:192.168.100.201:36600)
+[2025-04-08T11:55:43.549Z] Telnet server started on port 8023
+[2025-04-08T11:55:43.556Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T11:55:43.556Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T11:55:53.933Z] New connection from ::ffff:192.168.100.201:59118
+[2025-04-08T11:58:12.042Z] Telnet server started on port 8023
+[2025-04-08T11:58:12.048Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T11:58:12.049Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T11:58:12.986Z] Telnet server started on port 8023
+[2025-04-08T11:58:12.993Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T11:58:12.994Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T11:58:17.280Z] New connection from ::ffff:192.168.100.201:36868
+[2025-04-08T11:58:25.131Z] Telnet server started on port 8023
+[2025-04-08T11:58:25.136Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T11:58:25.136Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T11:58:33.864Z] Telnet server started on port 8023
+[2025-04-08T11:58:33.877Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T11:58:33.879Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T11:58:41.350Z] Telnet server started on port 8023
+[2025-04-08T11:58:41.362Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T11:58:41.363Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T11:58:44.942Z] New connection from ::ffff:192.168.100.201:44802
+[2025-04-08T11:58:58.499Z] Telnet server started on port 8023
+[2025-04-08T11:58:58.503Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T11:58:58.504Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T11:58:59.640Z] Telnet server started on port 8023
+[2025-04-08T11:58:59.651Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T11:58:59.652Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T11:59:07.621Z] Telnet server started on port 8023
+[2025-04-08T11:59:07.639Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T11:59:07.639Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T11:59:11.910Z] New connection from ::ffff:192.168.100.201:58494
+[2025-04-08T12:00:47.170Z] Telnet server started on port 8023
+[2025-04-08T12:00:47.185Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:00:47.186Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:00:48.675Z] New connection from ::ffff:192.168.100.201:35246
+[2025-04-08T12:00:57.085Z] Telnet server started on port 8023
+[2025-04-08T12:00:57.094Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:00:57.095Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:01:53.417Z] Telnet server started on port 8023
+[2025-04-08T12:01:53.433Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:01:53.434Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:01:55.615Z] New connection from ::ffff:192.168.100.201:46466
+[2025-04-08T12:02:13.410Z] Telnet server started on port 8023
+[2025-04-08T12:02:13.417Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:02:13.417Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:02:22.717Z] New connection from ::ffff:192.168.100.201:45964
+[2025-04-08T12:02:37.189Z] New connection from ::ffff:192.168.100.201:35986
+[2025-04-08T12:03:10.114Z] Telnet server started on port 8023
+[2025-04-08T12:03:10.123Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:03:10.124Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:03:13.114Z] New connection from ::ffff:192.168.100.201:39756
+[2025-04-08T12:03:22.436Z] Telnet server started on port 8023
+[2025-04-08T12:03:22.447Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:03:22.447Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:03:23.713Z] Telnet server started on port 8023
+[2025-04-08T12:03:23.718Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:03:23.719Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:03:26.898Z] Telnet server started on port 8023
+[2025-04-08T12:03:26.913Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:03:26.913Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:03:28.294Z] New connection from ::ffff:192.168.100.201:55492
+[2025-04-08T12:03:34.348Z] Telnet server started on port 8023
+[2025-04-08T12:03:34.361Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:03:34.362Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:03:41.363Z] Telnet server started on port 8023
+[2025-04-08T12:03:41.377Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:03:41.378Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:03:42.258Z] New connection from ::ffff:192.168.100.201:57728
+[2025-04-08T12:03:45.655Z] Telnet server started on port 8023
+[2025-04-08T12:03:45.662Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:03:45.662Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:03:50.177Z] Telnet server started on port 8023
+[2025-04-08T12:03:50.190Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:03:50.191Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:03:52.630Z] Telnet server started on port 8023
+[2025-04-08T12:03:52.641Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:03:52.642Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:03:56.348Z] Telnet server started on port 8023
+[2025-04-08T12:03:56.356Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:03:56.356Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:04:14.894Z] Telnet server started on port 8023
+[2025-04-08T12:04:14.908Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:04:14.909Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:04:37.182Z] Telnet server started on port 8023
+[2025-04-08T12:04:37.193Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:04:37.194Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:04:43.339Z] New connection from ::ffff:192.168.100.201:50788
+[2025-04-08T12:05:39.486Z] Telnet server started on port 8023
+[2025-04-08T12:05:39.491Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:05:39.492Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:05:40.654Z] New connection from ::ffff:192.168.100.201:46948
+[2025-04-08T12:05:48.824Z] Telnet server started on port 8023
+[2025-04-08T12:05:48.829Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:05:48.829Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:05:50.098Z] Telnet server started on port 8023
+[2025-04-08T12:05:50.111Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:05:50.111Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:05:51.130Z] Telnet server started on port 8023
+[2025-04-08T12:05:51.145Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:05:51.146Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:05:53.011Z] New connection from ::ffff:192.168.100.201:46390
+[2025-04-08T12:06:01.529Z] Telnet server started on port 8023
+[2025-04-08T12:06:01.536Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:06:01.537Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:06:32.935Z] Telnet server started on port 8023
+[2025-04-08T12:06:32.940Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:06:32.940Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:06:34.966Z] New connection from ::ffff:192.168.100.201:36312
+[2025-04-08T12:06:50.241Z] Telnet server started on port 8023
+[2025-04-08T12:06:50.256Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:06:50.257Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:06:51.437Z] New connection from ::ffff:192.168.100.201:38456
+[2025-04-08T12:07:02.349Z] Telnet server started on port 8023
+[2025-04-08T12:07:02.356Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:07:02.357Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:07:04.320Z] Telnet server started on port 8023
+[2025-04-08T12:07:04.325Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:07:04.326Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:07:06.587Z] New connection from ::ffff:192.168.100.201:49580
+[2025-04-08T12:08:21.513Z] Telnet server started on port 8023
+[2025-04-08T12:08:21.524Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:08:21.526Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:08:22.620Z] Telnet server started on port 8023
+[2025-04-08T12:08:22.636Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:08:22.637Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:08:27.045Z] New connection from ::ffff:192.168.100.201:38338
+[2025-04-08T12:10:15.282Z] Telnet server started on port 8023
+[2025-04-08T12:10:15.287Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:10:15.288Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:10:27.229Z] Telnet server started on port 8023
+[2025-04-08T12:10:27.238Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:10:27.239Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:10:28.902Z] Telnet server started on port 8023
+[2025-04-08T12:10:28.913Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:10:28.914Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:10:43.131Z] Telnet server started on port 8023
+[2025-04-08T12:10:43.144Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:10:43.145Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:10:58.071Z] Telnet server started on port 8023
+[2025-04-08T12:10:58.085Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:10:58.086Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:11:09.515Z] Telnet server started on port 8023
+[2025-04-08T12:11:09.523Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:11:09.524Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:11:11.852Z] Telnet server started on port 8023
+[2025-04-08T12:11:11.863Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:11:11.864Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:11:15.230Z] Telnet server started on port 8023
+[2025-04-08T12:11:15.241Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:11:15.242Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:11:24.905Z] Telnet server started on port 8023
+[2025-04-08T12:11:24.919Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:11:24.920Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:11:43.748Z] Telnet server started on port 8023
+[2025-04-08T12:11:43.761Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:11:43.761Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:11:49.536Z] Telnet server started on port 8023
+[2025-04-08T12:11:49.541Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:11:49.542Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:11:52.056Z] Telnet server started on port 8023
+[2025-04-08T12:11:52.071Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:11:52.072Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:11:55.374Z] New connection from ::ffff:192.168.100.201:48414
+[2025-04-08T12:12:08.745Z] Telnet server started on port 8023
+[2025-04-08T12:12:08.760Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:12:08.761Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:12:12.455Z] Telnet server started on port 8023
+[2025-04-08T12:12:12.474Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:12:12.474Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:12:14.755Z] Telnet server started on port 8023
+[2025-04-08T12:12:14.760Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:12:14.761Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:12:16.942Z] New connection from ::ffff:192.168.100.201:43060
+[2025-04-08T12:12:44.963Z] Telnet server started on port 8023
+[2025-04-08T12:12:44.975Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:12:44.975Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:14:18.577Z] Telnet server started on port 8023
+[2025-04-08T12:14:18.593Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:14:18.594Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:14:38.252Z] Telnet server started on port 8023
+[2025-04-08T12:14:38.276Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:14:38.277Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:15:02.292Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:15:02.280Z] Telnet server started on port 8023
+[2025-04-08T12:15:02.293Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:15:03.649Z] Telnet server started on port 8023
+[2025-04-08T12:15:03.673Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:15:03.674Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:15:20.020Z] Telnet server started on port 8023
+[2025-04-08T12:15:20.036Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:15:20.037Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:15:21.469Z] Telnet server started on port 8023
+[2025-04-08T12:15:21.482Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:15:21.482Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:15:24.921Z] New connection from ::ffff:192.168.100.201:39836
+[2025-04-08T12:16:37.309Z] Telnet server started on port 8023
+[2025-04-08T12:16:37.319Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:16:37.319Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:16:39.364Z] Telnet server started on port 8023
+[2025-04-08T12:16:39.378Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:16:39.378Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:16:54.869Z] Telnet server started on port 8023
+[2025-04-08T12:16:54.885Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:16:54.886Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:17:05.004Z] Telnet server started on port 8023
+[2025-04-08T12:17:05.022Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:17:05.023Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:17:16.782Z] Telnet server started on port 8023
+[2025-04-08T12:17:16.803Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:17:16.804Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:17:18.166Z] Telnet server started on port 8023
+[2025-04-08T12:17:18.185Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:17:18.186Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:17:24.116Z] Telnet server started on port 8023
+[2025-04-08T12:17:24.136Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:17:24.137Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:17:26.313Z] Telnet server started on port 8023
+[2025-04-08T12:17:26.333Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:17:26.334Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:17:30.558Z] Telnet server started on port 8023
+[2025-04-08T12:17:30.570Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:17:30.570Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:17:39.801Z] Telnet server started on port 8023
+[2025-04-08T12:17:39.812Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:17:39.813Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:17:47.244Z] Telnet server started on port 8023
+[2025-04-08T12:17:47.257Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:17:47.258Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:18:06.062Z] Telnet server started on port 8023
+[2025-04-08T12:18:06.073Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:18:06.074Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:18:09.112Z] Telnet server started on port 8023
+[2025-04-08T12:18:09.127Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:18:09.127Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:18:11.219Z] Telnet server started on port 8023
+[2025-04-08T12:18:11.238Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:18:11.239Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:18:19.028Z] New connection from ::ffff:192.168.100.201:37904
+[2025-04-08T12:19:06.397Z] Telnet server started on port 8023
+[2025-04-08T12:19:06.405Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:19:06.405Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:19:14.286Z] Telnet server started on port 8023
+[2025-04-08T12:19:14.305Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:19:14.306Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:19:15.491Z] Telnet server started on port 8023
+[2025-04-08T12:19:15.508Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:19:15.508Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:19:18.283Z] Telnet server started on port 8023
+[2025-04-08T12:19:18.295Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:19:18.295Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:19:20.350Z] Telnet server started on port 8023
+[2025-04-08T12:19:20.362Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:19:20.363Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:19:22.595Z] New connection from ::ffff:192.168.100.201:46376
+[2025-04-08T12:20:36.263Z] Telnet server started on port 8023
+[2025-04-08T12:20:36.273Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:20:36.273Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:20:50.905Z] Telnet server started on port 8023
+[2025-04-08T12:20:50.919Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:20:50.920Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:20:53.382Z] Telnet server started on port 8023
+[2025-04-08T12:20:53.398Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:20:53.400Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:20:54.410Z] Telnet server started on port 8023
+[2025-04-08T12:20:54.422Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:20:54.423Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:20:59.515Z] Telnet server started on port 8023
+[2025-04-08T12:20:59.520Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:20:59.520Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:21:04.413Z] Telnet server started on port 8023
+[2025-04-08T12:21:04.423Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:21:04.424Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:21:09.052Z] Telnet server started on port 8023
+[2025-04-08T12:21:09.063Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:21:09.064Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:21:10.383Z] Telnet server started on port 8023
+[2025-04-08T12:21:10.391Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:21:10.393Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:21:14.008Z] Telnet server started on port 8023
+[2025-04-08T12:21:14.018Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:21:14.019Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:21:16.503Z] Telnet server started on port 8023
+[2025-04-08T12:21:16.513Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:21:16.514Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:21:23.763Z] Telnet server started on port 8023
+[2025-04-08T12:21:23.771Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:21:23.773Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:21:25.438Z] Telnet server started on port 8023
+[2025-04-08T12:21:25.454Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:21:25.455Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:21:28.451Z] Telnet server started on port 8023
+[2025-04-08T12:21:28.456Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:21:28.456Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:21:30.674Z] Telnet server started on port 8023
+[2025-04-08T12:21:30.679Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:21:30.680Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:21:46.761Z] New connection from ::ffff:192.168.100.201:43634
+[2025-04-08T12:22:58.487Z] Telnet server started on port 8023
+[2025-04-08T12:22:58.493Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:22:58.494Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:22:59.543Z] Telnet server started on port 8023
+[2025-04-08T12:22:59.548Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:22:59.548Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:23:03.982Z] Telnet server started on port 8023
+[2025-04-08T12:23:03.995Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:23:03.996Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:23:09.381Z] New connection from ::ffff:192.168.100.201:50462
+[2025-04-08T12:26:31.230Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:50462
+[2025-04-08T12:27:30.297Z] Telnet server started on port 8023
+[2025-04-08T12:27:30.318Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:27:30.319Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:27:43.763Z] New connection from ::ffff:192.168.100.201:56902
+[2025-04-08T12:28:26.417Z] New connection from ::ffff:192.168.100.201:37366
+[2025-04-08T12:29:27.700Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:37366
+[2025-04-08T12:29:53.962Z] Telnet server started on port 8023
+[2025-04-08T12:29:53.968Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:29:53.968Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:30:38.823Z] Telnet server started on port 8023
+[2025-04-08T12:30:38.842Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:30:38.843Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:30:41.727Z] Telnet server started on port 8023
+[2025-04-08T12:30:41.755Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:30:41.756Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:30:47.596Z] Telnet server started on port 8023
+[2025-04-08T12:30:47.615Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:30:47.616Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:31:08.121Z] Telnet server started on port 8023
+[2025-04-08T12:31:08.130Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:31:08.131Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:31:09.586Z] Telnet server started on port 8023
+[2025-04-08T12:31:09.601Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:31:09.602Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:31:14.064Z] Telnet server started on port 8023
+[2025-04-08T12:31:14.075Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:31:14.076Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:31:17.294Z] New connection from ::ffff:192.168.100.201:56994
+[2025-04-08T12:31:46.173Z] Telnet server started on port 8023
+[2025-04-08T12:31:46.190Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:31:46.191Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:31:47.291Z] Telnet server started on port 8023
+[2025-04-08T12:31:47.304Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:31:47.304Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:31:51.827Z] Telnet server started on port 8023
+[2025-04-08T12:31:51.845Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:31:51.845Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:31:56.469Z] Telnet server started on port 8023
+[2025-04-08T12:31:56.483Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:31:56.484Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:32:05.899Z] Telnet server started on port 8023
+[2025-04-08T12:32:05.910Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:32:05.910Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:32:20.550Z] Telnet server started on port 8023
+[2025-04-08T12:32:20.561Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:32:20.561Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:32:27.513Z] Telnet server started on port 8023
+[2025-04-08T12:32:27.530Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:32:27.531Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:32:32.592Z] Telnet server started on port 8023
+[2025-04-08T12:32:32.604Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:32:32.605Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:32:36.616Z] Telnet server started on port 8023
+[2025-04-08T12:32:36.625Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:32:36.625Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:32:41.245Z] Telnet server started on port 8023
+[2025-04-08T12:32:41.262Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:32:41.263Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:32:43.255Z] Telnet server started on port 8023
+[2025-04-08T12:32:43.271Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:32:43.272Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:32:47.279Z] Telnet server started on port 8023
+[2025-04-08T12:32:47.292Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:32:47.293Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:33:29.443Z] Telnet server started on port 8023
+[2025-04-08T12:33:29.454Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:33:29.455Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:33:46.795Z] Telnet server started on port 8023
+[2025-04-08T12:33:46.811Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:33:46.811Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:33:50.512Z] New connection from ::ffff:192.168.100.201:46738
+[2025-04-08T12:34:04.403Z] Telnet server started on port 8023
+[2025-04-08T12:34:04.411Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:34:04.411Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:34:06.307Z] New connection from ::ffff:192.168.100.201:35048
+[2025-04-08T12:34:41.150Z] Telnet server started on port 8023
+[2025-04-08T12:34:41.160Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:34:41.161Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:34:44.210Z] Telnet server started on port 8023
+[2025-04-08T12:34:44.215Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:34:44.215Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:34:55.540Z] Telnet server started on port 8023
+[2025-04-08T12:34:55.556Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:34:55.557Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:34:57.859Z] Telnet server started on port 8023
+[2025-04-08T12:34:57.870Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:34:57.870Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:35:01.375Z] New connection from ::ffff:192.168.100.201:44112
+[2025-04-08T12:35:51.647Z] Telnet server started on port 8023
+[2025-04-08T12:35:51.653Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:35:51.653Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:35:58.179Z] New connection from ::ffff:192.168.100.201:49872
+[2025-04-08T12:36:12.111Z] Telnet server started on port 8023
+[2025-04-08T12:36:12.119Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:36:12.119Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:36:15.254Z] Telnet server started on port 8023
+[2025-04-08T12:36:15.272Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:36:15.273Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:36:40.927Z] Telnet server started on port 8023
+[2025-04-08T12:36:40.933Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:36:40.933Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:36:42.073Z] New connection from ::ffff:192.168.100.201:48274
+[2025-04-08T12:37:34.475Z] New connection from ::ffff:192.168.100.201:46934
+[2025-04-08T12:37:48.665Z] Telnet server started on port 8023
+[2025-04-08T12:37:48.694Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:37:48.696Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:37:55.077Z] New connection from ::ffff:192.168.100.201:37016
+[2025-04-08T12:51:14.370Z] Telnet server started on port 8023
+[2025-04-08T12:51:14.389Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:51:14.390Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:51:26.385Z] Telnet server started on port 8023
+[2025-04-08T12:51:26.399Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:51:26.400Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:51:33.361Z] Telnet server started on port 8023
+[2025-04-08T12:51:33.375Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:51:33.376Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:53:15.684Z] Telnet server started on port 8023
+[2025-04-08T12:53:15.691Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:53:15.690Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:53:24.468Z] Telnet server started on port 8023
+[2025-04-08T12:53:24.489Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:53:24.490Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:54:11.192Z] Telnet server started on port 8023
+[2025-04-08T12:54:11.201Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:54:11.201Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:54:18.861Z] New connection from ::ffff:192.168.100.201:45236
+[2025-04-08T12:54:54.968Z] Telnet server started on port 8023
+[2025-04-08T12:54:54.973Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:54:54.974Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:55:13.156Z] Telnet server started on port 8023
+[2025-04-08T12:55:13.165Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:55:13.165Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:55:16.155Z] New connection from ::ffff:192.168.100.201:47684
+[2025-04-08T12:55:23.584Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:47684
+[2025-04-08T12:55:25.593Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:47684
+[2025-04-08T12:55:25.594Z] Successful login: User '1' from ::ffff:192.168.100.201:47684
+[2025-04-08T12:55:25.596Z] Command executed by '1': 
+[2025-04-08T12:55:29.742Z] Command executed by '1': exit
+[2025-04-08T12:55:29.743Z] User '1' logged out from ::ffff:192.168.100.201:47684
+[2025-04-08T12:55:29.748Z] Command executed by '1': 
+[2025-04-08T12:55:29.748Z] Socket error for user '1' (::ffff:192.168.100.201:47684): write after end
+[2025-04-08T12:55:29.749Z] Connection closed: User '1' (::ffff:192.168.100.201:47684)
+[2025-04-08T12:55:34.825Z] New connection from ::ffff:192.168.100.201:43580
+[2025-04-08T12:56:33.360Z] Telnet server started on port 8023
+[2025-04-08T12:56:33.365Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:56:33.365Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:56:37.861Z] Telnet server started on port 8023
+[2025-04-08T12:56:37.871Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:56:37.872Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:56:45.733Z] New connection from ::ffff:192.168.100.201:34044
+[2025-04-08T12:57:10.898Z] Telnet server started on port 8023
+[2025-04-08T12:57:10.923Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:57:10.924Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:57:33.915Z] Telnet server started on port 8023
+[2025-04-08T12:57:33.938Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:57:33.939Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:57:35.763Z] Telnet server started on port 8023
+[2025-04-08T12:57:35.778Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:57:35.779Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:57:40.077Z] Telnet server started on port 8023
+[2025-04-08T12:57:40.094Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:57:40.095Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:57:41.154Z] Telnet server started on port 8023
+[2025-04-08T12:57:41.170Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T12:57:41.171Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T12:57:48.320Z] New connection from ::ffff:192.168.100.201:45910
+[2025-04-08T12:57:56.633Z] Login attempt: Username '1' provided from ::ffff:192.168.100.201:45910
+[2025-04-08T12:57:57.160Z] Login attempt: Password provided for user '1' from ::ffff:192.168.100.201:45910
+[2025-04-08T12:57:57.161Z] Successful login: User '1' from ::ffff:192.168.100.201:45910
+[2025-04-08T12:57:57.163Z] Command executed by '1': 
+[2025-04-08T12:58:00.811Z] Command executed by '1': ýexit
+[2025-04-08T12:58:00.811Z] Command executed by '1': 
+[2025-04-08T12:58:02.939Z] Command executed by '1': exit
+[2025-04-08T12:58:02.940Z] User '1' logged out from ::ffff:192.168.100.201:45910
+[2025-04-08T12:58:02.944Z] Command executed by '1': 
+[2025-04-08T12:58:02.944Z] Socket error for user '1' (::ffff:192.168.100.201:45910): write after end
+[2025-04-08T12:58:02.944Z] Connection closed: User '1' (::ffff:192.168.100.201:45910)
+[2025-04-08T12:58:07.240Z] New connection from ::ffff:192.168.100.201:59366
+[2025-04-08T12:58:45.400Z] Connection closed: User '' (::ffff:192.168.100.201:59366)

@@ -1,38 +1,47 @@
-function displaySlowly(socket, text, callback, delay = 100) {
+function displaySlowly(socket, text, callback, delay = 100, jumbleEffect = true, typewriterEffect = false) {
     const lines = text.split('\n');
     let lineIndex = 0;
-    
+
     function sendNextLine() {
         if (lineIndex < lines.length) {
             const line = lines[lineIndex];
-            socket.write(line + '\r\n');
-            lineIndex++;
-            setTimeout(sendNextLine, delay);
+            if (typewriterEffect) {
+                displayWithTypewriterEffect(line, () => {
+                    lineIndex++;
+                    setTimeout(sendNextLine, delay);
+                });
+            } else {
+                socket.write(line + '\r\n');
+                lineIndex++;
+                setTimeout(sendNextLine, delay);
+            }
         } else {
             if (callback) callback();
         }
     }
-    
+
+    function displayWithTypewriterEffect(line, onComplete) {
+        let charIndex = 0;
+        const typewriterEffectDelay = 40;
+        function typeNextChar() {
+            if (charIndex < line.length) {
+                socket.write(line[charIndex]);
+                charIndex++;
+                setTimeout(typeNextChar, typewriterEffectDelay);
+            } else {
+                socket.write('\r\n');
+                if (onComplete) onComplete();
+            }
+        }
+
+        typeNextChar();
+    }
+
     sendNextLine();
-}const preLoginMessage = `
-********"***************
-* WELCOME TO THE ARCHIVE OF yoKgUeWsEhNwIari *
-* || * UNAUTHORIZED ACCESS IS PROHIBITED * || *
-* Last Modified: June 16, 1994 (05:33 UTC) *
-*************************
+}
 
-"For history to remember, someone must first uncover the truth."
-
-If you are reading this, then my mission was not in vain. I worked in shadows,
-playing both sides, to learn what should have remained unknown. Here, I have 
-hidden fragments of what I discovered—proof of covert operations, stealth
-technology, and more.
-
-Somewhere inside these archives lies a path to the truth.
-I ask you to find it. Once you discover what's hidden all I ask from you is to 
-publish everything you find. Please use any means to make this information 
-public and available to all.`;const net = require('net');
 const figlet = require('figlet');
+const net = require('net');
 const fs = require('fs');
 const path = require('path');
 
@@ -40,7 +49,8 @@ const PORT = process.env.PORT || 8023;
 const clients = new Map();
 
 const validCredentials = {
-    'YOGESHWARI': 'WEAREONE'
+    // 'YOGESHWARI': 'WEAREONE'
+    '1': '1'
 };
 
 const LOG_DIR = path.join(__dirname, 'logs');
@@ -58,9 +68,9 @@ if (!fs.existsSync(LOG_DIR)) {
 function logActivity(message) {
     const timestamp = new Date().toISOString();
     const logEntry = `[${timestamp}] ${message}\n`;
-    
+
     console.log(logEntry.trim());
-    
+
     fs.appendFile(ACCESS_LOG_FILE, logEntry, (err) => {
         if (err) {
             console.error(`Error writing to log file: ${err.message}`);
@@ -79,45 +89,93 @@ if (!fs.existsSync(ROOT_DIR)) {
     }
 }
 
-
-
 const server = net.createServer((socket) => {
 
-   // socket.write(Buffer.from([255, 251, 1])); // IAC WILL ECHO
-   // socket.write(Buffer.from([255, 254, 1])); // IAC DONT ECHO
-    
+    // socket.write(Buffer.from([255, 251, 1])); // IAC WILL ECHO
+    // socket.write(Buffer.from([255, 254, 1])); // IAC DONT ECHO
+
     // Negotiate about window size (NAWS)
     socket.write(Buffer.from([255, 251, 31])); // IAC WILL NAWS
-    
+
     const clientAddress = `${socket.remoteAddress}:${socket.remotePort}`;
     let username = '';
     let authenticated = false;
     let currentDir = '/';
     let inputBuffer = '';
-    let terminalWidth = 80; 
-   
+    let terminalWidth = 80;
+
     socket.on('data', handleTelnetData);
-    
+
     logActivity(`New connection from ${clientAddress}`);
-    
-    displaySlowly(socket, preLoginMessage, () => {
-        socket.write('\r\nPlease enter your username: ');
-    }, 150); 
+
+    // title init
+    const title = figlet.textSync('yoKgUeWsEhNwIari', {
+        font: 'Standard',
+        horizontalLayout: 'default',
+        verticalLayout: 'default',
+    });
+
+    // welcome title, subtitle and last modified date
+    const subtitle = '\x1b[1m\x1b[31m-- UNAUTHORIZED ACCESS IS PROHIBITED --\x1b[0m';
+    const lastModified = '\x1b[1m\x1b[34mLast Modified: October 16, 1994 (05:33 UTC)\x1b[0m';
+
+    const retroText = `
+"For the truth to be remembered, someone must first find it"
+`;
+
+    // retro text into lines
+    const retroTextLines = retroText.trim().split('\n');
+
+    // Calculate the maximum width for the grid
+    const maxTitleWidth = Math.max(...title.split('\n').map(line => line.length));
+    const maxRetroTextWidth = Math.max(...retroTextLines.map(line => line.length));
+    const maxLineWidth = Math.max(maxTitleWidth, maxRetroTextWidth, subtitle.length, lastModified.length);
+    const gridWidth = maxLineWidth + 6; // padding for the grid
+
+    // strip ANSI escape sequences
+    function stripAnsiCodes(text) {
+        return text.replace(/\x1b\[[0-9;]*m/g, '');
+    }
+
+    // visible length of the subtitle and last modified text
+    const visibleSubtitleLength = stripAnsiCodes(subtitle).length;
+    const visibleLastModifiedLength = stripAnsiCodes(lastModified).length;
+
+    // Center-align the title
+    const centeredTitle = title.split('\n').map(line => {
+        const padding = Math.floor((gridWidth - line.length) / 2);
+        return `${' '.repeat(padding)}\x1b[32m${line}\x1b[0m${' '.repeat(gridWidth - line.length - padding)}`;
+    }).join('\n');
+
+    // Center-align the subtitle and last modified text
+    const centeredSubtitle = `${' '.repeat(Math.floor((gridWidth - visibleSubtitleLength) / 2))}${subtitle}${' '.repeat(Math.ceil((gridWidth - visibleSubtitleLength) / 2))}`;
+    const centeredLastModified = `${' '.repeat(Math.floor((gridWidth - visibleLastModifiedLength) / 2))}${lastModified}${' '.repeat(Math.ceil((gridWidth - visibleLastModifiedLength) / 2))}`;
+
+    // Center-align the retro text
+    const centeredRetroText = retroTextLines.map(line => {
+        const padding = Math.floor((gridWidth - line.length) / 2);
+        return `${' '.repeat(padding)}${line}${' '.repeat(gridWidth - line.length - padding)}`;
+    }).join('\n');
+
+    displaySlowly(socket, `${centeredTitle}\n\n${centeredSubtitle}\n${centeredLastModified}\n\n`, () => {
+        displaySlowly(socket, centeredRetroText, () => {
+            socket.write('\r\n\x1b[32mUsername:\x1b[0m ');
+        }, 50, false, true);
+    }, 150, false, false);
 
     let awaitingUsername = true;
     let awaitingPassword = false;
     let hideInput = false;
 
-
     function handleTelnetData(data) {
 
         let i = 0;
         while (i < data.length) {
-        
+
             if (data[i] === 255) { // IAC byte
                 if (i + 1 < data.length) {
                     const command = data[i + 1];
-                
+
                     if (command === 250 && i + 5 < data.length && data[i + 2] === 31) { // SB NAWS
                         // Extract window width (high byte, low byte)
                         const width = (data[i + 3] << 8) + data[i + 4];
@@ -125,55 +183,49 @@ const server = net.createServer((socket) => {
                             terminalWidth = width;
                             logActivity(`Terminal width for ${username || 'unknown'} set to ${terminalWidth}`);
                         }
-                     
+
                         i += 7;
                         continue;
                     }
-                    
-                    
+
                     i += 3;
                     continue;
                 }
             }
-            
-         
+
             if (data[i] === 8 || data[i] === 127) {
                 if (inputBuffer.length > 0) {
                     inputBuffer = inputBuffer.slice(0, -1);
-                   
+
                     socket.write('\b \b');
                 }
                 i++;
                 continue;
             }
-            
-           
+
             if (data[i] === 13 || data[i] === 10) {
                 // Process the completed line
                 const input = inputBuffer.trim();
-                inputBuffer = ''; 
-                
-                socket.write('\r\n'); 
-                
+                inputBuffer = '';
+
+                socket.write('\r\n');
+
                 processInput(input);
                 i++;
                 continue;
             }
-            
-       
+
             if (data[i] < 32 && data[i] !== 9) {
                 i++;
                 continue;
             }
-            
-        
+
             inputBuffer += String.fromCharCode(data[i]);
-            
-        
+
             if (!hideInput) {
                 socket.write(String.fromCharCode(data[i]));
             } else {
-                socket.write('*'); 
+                socket.write('*');
             }
             i++;
         }
@@ -190,7 +242,7 @@ const server = net.createServer((socket) => {
                 logActivity(`Login attempt: Username '${username}' provided from ${clientAddress}`);
 
                 if (validCredentials[username]) {
-                    socket.write('Password: ');
+                    socket.write('\x1b[32mPassword: \x1b[0m');
                 } else {
                     logActivity(`Failed login: Invalid username '${username}' from ${clientAddress}`);
                     socket.write('Invalid username. Please try again.\r\n');
@@ -223,8 +275,7 @@ const server = net.createServer((socket) => {
                     });
 
                     socket.write(`\r\nHello ${username}! Here are the available commands:\r\n`);
-                    
-                    
+
                     displayHelpMenu(socket);
                     sendPrompt(socket);
                 } else {
@@ -254,7 +305,7 @@ const server = net.createServer((socket) => {
         const args = input.split(' ');
         const command = args[0];
 
-        switch(command) {
+        switch (command) {
             case 'help':
                 displayHelpMenu(socket);
                 break;
@@ -322,7 +373,7 @@ const server = net.createServer((socket) => {
 
         sendPrompt(socket);
     }
-    
+
     function displayHelpMenu(socket) {
         socket.write('Available commands:\r\n');
         socket.write('  help         - Show this help message\r\n');
@@ -367,7 +418,7 @@ const server = net.createServer((socket) => {
 
                 socket.write(`${perms} ${sizeStr} ${dateStr} ${color}${item}${suffix}${colorReset}\r\n`);
             }
-            
+
             logActivity(`User '${username}' listed directory '${currentDir}'`);
         } catch (err) {
             logActivity(`Error for user '${username}' listing directory '${currentDir}': ${err.message}`);
@@ -435,7 +486,7 @@ const server = net.createServer((socket) => {
 
             const content = fs.readFileSync(filePath, 'utf8');
             socket.write(`\r\n${content}\r\n`);
-            
+
             logActivity(`User '${username}' viewed file '${fileName}' in directory '${currentDir}'`);
         } catch (err) {
             logActivity(`Error for user '${username}' reading file '${fileName}': ${err.message}`);
