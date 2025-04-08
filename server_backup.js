@@ -1,4 +1,4 @@
-function displaySlowly(socket, text, callback, delay = 100, typewriterEffect = false) {
+function displaySlowly(socket, text, callback, delay = 100, jumbleEffect = true, typewriterEffect = false) {
     const lines = text.split('\n');
     let lineIndex = 0;
 

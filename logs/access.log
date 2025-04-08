@@ -1572,3 +1572,67 @@
 [2025-04-08T13:02:09.723Z] Connection closed: User 'YOGESHWARI' (::ffff:192.168.100.201:42526)
 [2025-04-08T13:02:11.385Z] New connection from ::ffff:192.168.100.201:47460
 [2025-04-08T13:02:20.241Z] Connection closed: User '' (::ffff:192.168.100.201:47460)
+[2025-04-08T13:03:28.178Z] New connection from ::ffff:192.168.100.201:41072
+[2025-04-08T13:03:51.123Z] Connection closed: User '' (::ffff:192.168.100.201:41072)
+[2025-04-08T13:06:14.227Z] New connection from ::ffff:192.168.100.201:52514
+[2025-04-08T13:06:46.794Z] Connection closed: User '' (::ffff:192.168.100.201:52514)
+[2025-04-08T13:06:59.549Z] New connection from ::ffff:192.168.100.201:51740
+[2025-04-08T13:07:10.276Z] Telnet server started on port 8023
+[2025-04-08T13:07:10.283Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T13:07:10.283Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T13:07:14.273Z] New connection from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:36.521Z] Login attempt: Username 'clear' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:36.521Z] Failed login: Invalid username 'clear' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:39.821Z] Login attempt: Username 'clear' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:39.822Z] Failed login: Invalid username 'clear' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:41.086Z] Login attempt: Username 'clear' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:41.087Z] Failed login: Invalid username 'clear' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:41.842Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:41.843Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:42.342Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:42.342Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:42.581Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:42.582Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:42.769Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:42.770Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:42.877Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:42.877Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:43.023Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:43.023Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:43.139Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:43.140Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:43.405Z] Login attempt: Username 'll' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:43.406Z] Failed login: Invalid username 'll' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:43.521Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:43.521Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:43.665Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:43.666Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:43.773Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:43.773Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:43.905Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:43.905Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:44.047Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:44.047Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:44.162Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:44.162Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:44.277Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:44.278Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:44.425Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:44.426Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:44.714Z] Login attempt: Username 'll' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:44.715Z] Failed login: Invalid username 'll' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:44.799Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:44.800Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:45.096Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:45.097Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:45.196Z] Login attempt: Username 'l' provided from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:45.197Z] Failed login: Invalid username 'l' from ::ffff:192.168.100.201:33546
+[2025-04-08T13:07:50.524Z] Connection closed: User 'l' (::ffff:192.168.100.201:33546)
+[2025-04-08T13:07:55.280Z] New connection from ::ffff:192.168.100.201:48884
+[2025-04-08T13:08:06.983Z] Login attempt: Username 'YOGESHWARI' provided from ::ffff:192.168.100.201:48884
+[2025-04-08T13:08:11.470Z] Login attempt: Password provided for user 'YOGESHWARI' from ::ffff:192.168.100.201:48884
+[2025-04-08T13:08:11.470Z] Successful login: User 'YOGESHWARI' from ::ffff:192.168.100.201:48884
+[2025-04-08T13:08:11.472Z] Command executed by 'YOGESHWARI': 
+[2025-04-08T13:08:19.829Z] Connection closed: User 'YOGESHWARI' (::ffff:192.168.100.201:48884)
+[2025-04-08T13:08:57.511Z] New connection from ::ffff:192.168.100.201:54844
+[2025-04-08T13:09:30.218Z] Connection closed: User '' (::ffff:192.168.100.201:54844)
