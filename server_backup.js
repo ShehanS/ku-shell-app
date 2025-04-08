@@ -1,4 +1,4 @@
-function displaySlowly(socket, text, callback, delay = 100, jumbleEffect = true, typewriterEffect = false) {
+function displaySlowly(socket, text, callback, delay = 100, typewriterEffect = false) {
     const lines = text.split('\n');
     let lineIndex = 0;
 
@@ -49,8 +49,7 @@ const PORT = process.env.PORT || 8023;
 const clients = new Map();
 
 const validCredentials = {
-    // 'YOGESHWARI': 'WEAREONE'
-    '1': '1'
+    'YOGESHWARI': 'WEAREONE'
 };
 
 const LOG_DIR = path.join(__dirname, 'logs');

@@ -1554,3 +1554,21 @@
 [2025-04-08T12:58:02.944Z] Connection closed: User '1' (::ffff:192.168.100.201:45910)
 [2025-04-08T12:58:07.240Z] New connection from ::ffff:192.168.100.201:59366
 [2025-04-08T12:58:45.400Z] Connection closed: User '' (::ffff:192.168.100.201:59366)
+[2025-04-08T13:01:19.730Z] Telnet server started on port 8023
+[2025-04-08T13:01:19.747Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T13:01:19.748Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T13:01:35.338Z] File system root directory: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/root
+[2025-04-08T13:01:35.322Z] Telnet server started on port 8023
+[2025-04-08T13:01:35.339Z] Log file location: /media/vihanpereraux/ZerosnOnes/Dev/ku-shell-app/logs/access.log
+[2025-04-08T13:01:48.061Z] New connection from ::ffff:192.168.100.201:42526
+[2025-04-08T13:02:02.522Z] Login attempt: Username 'YOGESHWARI' provided from ::ffff:192.168.100.201:42526
+[2025-04-08T13:02:07.445Z] Successful login: User 'YOGESHWARI' from ::ffff:192.168.100.201:42526
+[2025-04-08T13:02:07.444Z] Login attempt: Password provided for user 'YOGESHWARI' from ::ffff:192.168.100.201:42526
+[2025-04-08T13:02:07.447Z] Command executed by 'YOGESHWARI': 
+[2025-04-08T13:02:09.720Z] Command executed by 'YOGESHWARI': exit
+[2025-04-08T13:02:09.721Z] User 'YOGESHWARI' logged out from ::ffff:192.168.100.201:42526
+[2025-04-08T13:02:09.722Z] Command executed by 'YOGESHWARI': 
+[2025-04-08T13:02:09.723Z] Socket error for user 'YOGESHWARI' (::ffff:192.168.100.201:42526): write after end
+[2025-04-08T13:02:09.723Z] Connection closed: User 'YOGESHWARI' (::ffff:192.168.100.201:42526)
+[2025-04-08T13:02:11.385Z] New connection from ::ffff:192.168.100.201:47460
+[2025-04-08T13:02:20.241Z] Connection closed: User '' (::ffff:192.168.100.201:47460)
